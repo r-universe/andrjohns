@@ -1,7 +1,10 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/andrjohns/andrjohns.r-universe.dev
 	branch = HEAD
 [submodule "QuickJSR"]
 	path = QuickJSR
-	url = https://github.com/andrjohns/quickjsr
+	url = https://github.com/andrjohns/QuickJSR
+[submodule "StanEstimators"]
+	path = StanEstimators
+	url = https://github.com/andrjohns/StanEstimators
