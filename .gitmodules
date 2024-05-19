@@ -8,6 +8,3 @@
 [submodule "StanEstimators"]
 	path = StanEstimators
 	url = https://github.com/andrjohns/StanEstimators
-[submodule "cmdstanr"]
-	path = cmdstanr
-	url = https://github.com/andrjohns/cmdstanr
