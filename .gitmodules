@@ -5,6 +5,10 @@
 [submodule "QuickJSR"]
 	path = QuickJSR
 	url = https://github.com/andrjohns/QuickJSR
+[submodule "RcppParallel"]
+	path = RcppParallel
+	url = https://github.com/andrjohns/RcppParallel
+	branch = webr-wasm
 [submodule "StanEstimators"]
 	path = StanEstimators
 	url = https://github.com/andrjohns/StanEstimators
