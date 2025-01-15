@@ -8,3 +8,8 @@
 [submodule "StanEstimators"]
 	path = StanEstimators
 	url = https://github.com/andrjohns/StanEstimators
+[submodule "StanHeaders"]
+	path = StanHeaders
+	url = https://github.com/stan-dev/rstan
+	branch = runiverse-scripts
+	subdir = StanHeaders
