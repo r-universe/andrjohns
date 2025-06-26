@@ -8,3 +8,6 @@
 [submodule "StanEstimators"]
 	path = StanEstimators
 	url = https://github.com/andrjohns/StanEstimators
+[submodule "boostmath"]
+	path = boostmath
+	url = https://github.com/andrjohns/boostmath
