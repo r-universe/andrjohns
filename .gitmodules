@@ -11,3 +11,6 @@
 [submodule "boostmath"]
 	path = boostmath
 	url = https://github.com/andrjohns/boostmath
+[submodule "controlcharts"]
+	path = controlcharts
+	url = https://github.com/andrjohns/controlcharts
