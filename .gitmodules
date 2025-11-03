@@ -11,3 +11,6 @@
 [submodule "boostmath"]
 	path = boostmath
 	url = https://github.com/andrjohns/boostmath
+[submodule "jsutils"]
+	path = jsutils
+	url = https://github.com/andrjohns/jsutils
