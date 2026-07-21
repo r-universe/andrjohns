@@ -11,23 +11,9 @@
 [submodule "StanEstimators"]
 	path = StanEstimators
 	url = https://github.com/andrjohns/StanEstimators
-[submodule "StanHeaders"]
-	path = StanHeaders
-	url = https://github.com/stan-dev/rstan
-	branch = v2.39.0
-	subdir = StanHeaders
 [submodule "boostmath"]
 	path = boostmath
 	url = https://github.com/andrjohns/boostmath
 [submodule "jsutils"]
 	path = jsutils
 	url = https://github.com/andrjohns/jsutils
-[submodule "rstan"]
-	path = rstan
-	url = https://github.com/stan-dev/rstan
-	branch = v2.39.0
-	subdir = rstan/rstan
-[submodule "rstantools"]
-	path = rstantools
-	url = https://github.com/stan-dev/rstantools
-	branch = compat
