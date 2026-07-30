@@ -14,3 +14,6 @@
 [submodule "jsutils"]
 	path = jsutils
 	url = https://github.com/andrjohns/jsutils
+[submodule "newstan"]
+	path = newstan
+	url = https://github.com/andrjohns/newstan
